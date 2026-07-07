@@ -1,0 +1,20 @@
+{
+  "name": "file-organizer",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/OlehFedorchuk/file-organizer#readme",
+  "bugs": {
+    "url": "https://github.com/OlehFedorchuk/file-organizer/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlehFedorchuk/file-organizer.git"
+  },
+  "license": "ISC",
+  "author": "Oleh Fedorchuk <fedorchuk2018@gmail.com> (https://github.com/OlehFedorchuk)",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
