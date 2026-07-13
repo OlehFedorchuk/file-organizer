@@ -13,7 +13,7 @@ function main(arg, path) {
   }
   switch (arg) {
     case "scan":
-      console.log("Func scan", scan(path));
+      scan(path);
       break;
     case "duplicates":
       console.log(duplicates(path));
