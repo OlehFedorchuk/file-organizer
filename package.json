@@ -12,9 +12,14 @@
   },
   "license": "ISC",
   "author": "Oleh Fedorchuk <fedorchuk2018@gmail.com> (https://github.com/OlehFedorchuk)",
-  "type": "commonjs",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node file-organizer",
+    "dev": "nodemon file-organizer"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
   }
 }
