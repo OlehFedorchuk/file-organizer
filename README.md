@@ -20,15 +20,17 @@ A powerful Node.js command-line application for scanning, organizing, and cleani
 
 ```
 file-organizer/
-├── package.json
-├── .gitignore
-├── README.md
-├── file-organizer.js
-└── lib/
-├── scanner.js
-├── duplicates.js
-├── organizer.js
-└── cleanup.js
+    ├── package.json
+    ├── .gitignore
+    ├── README.md
+    ├── file-organizer.js
+    └── lib/
+        ├── scanner.js
+        ├── duplicates.js
+        ├── organizer.js
+        ├── cleanup.js
+        └── utils.js
+
 ```
 
 ---
