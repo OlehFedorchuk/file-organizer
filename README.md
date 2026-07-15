@@ -93,14 +93,16 @@ Downloads Processing... ██████████████████�
 
 📊 Scan Results Total files: 247 Total size: 1.2 GB
 By File Type:
-.pdf 89 files
-.png 67 files
-.zip 23 files
+
+- .pdf 89 files
+- .png 67 files
+- .zip 23 files
 
 Largest Files:
-video.mp4
-archive.zip
-presentation.pptx
+
+- video.mp4
+- archive.zip
+- presentation.pptx
 
 ---
 
